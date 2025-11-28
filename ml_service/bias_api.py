@@ -52,7 +52,7 @@ keyword_suggestions = {
     "confident": ["capable", "self-assured"],
     "outspoken": ["communicative", "articulate"],
     "ambitious": ["motivated", "goal-oriented"],
-    "bros": ["people", "coders", "employees"],
+    "bros": ["people", "humans", "employees"],
 }
 
 def find_suggestions(text):
