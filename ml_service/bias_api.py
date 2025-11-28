@@ -24,6 +24,7 @@ keyword_suggestions = {
     "rockstar": ["skilled", "collaborative", "high-performing"],
     "ninja": ["expert", "specialist"],
     "guru": ["expert", "experienced professional"],
+    "bro": ["professional"],
     "hustle": ["work diligently", "maintain momentum"],
     "push": ["advance", "move forward", "progress"],
     "take charge": ["take initiative", "lead collaboratively"],
