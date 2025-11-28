@@ -1,7 +1,7 @@
-## BiasLens
+# BiasLens
 This tool helps users identify and reflect on gender-coded language in job descriptions or text. It highlights masculine or feminine-coded words and suggests more inclusive alternatives. The goal is to raise awareness about subtle linguistic biases and encourage more equitable communication.
 
-# Step 1
+## Step 1
 AI Core: Bias Detection + Neutral Word Suggestions
 
 Example: Input "Gotta be assertive and confident bros." -> male bias detected -> 
